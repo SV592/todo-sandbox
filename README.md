@@ -1,6 +1,6 @@
 # todo-sandbox
 
-A deliberately small Next.js todo app used as a test repo for [agent-review](../agent-review). Todos live in `localStorage`; there is no backend.
+A deliberately small Next.js todo app used as a test repo for testing. Todos live in `localStorage`; there is no backend.
 
 ## Run it
 
